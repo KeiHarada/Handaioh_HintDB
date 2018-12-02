@@ -1,0 +1,3 @@
+[submodule "WikipediaRelatedness"]
+	path = WikipediaRelatedness
+	url = https://github.com/KeiHarada/Handaioh_HintDB.git
